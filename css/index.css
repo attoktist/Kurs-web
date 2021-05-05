@@ -1,0 +1,88 @@
+#background
+{
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	z-index: 1;
+}
+
+h2
+{
+	z-index: 10;
+}
+
+.link 
+{
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	z-index: 10;
+	
+}
+
+.link a
+{
+	color: white;
+}
+
+#text
+{
+	position: fixed;
+	left: 0px;
+	top: 30px;
+	z-index: 10;
+	color: white;
+}
+#head_str
+{
+	position: absolute;
+	left:588px;
+}
+
+.okno
+{
+	display: none;
+	position: fixed;
+	left:588px;
+	top:284px;
+	width: 200px;
+	height: 200px;
+	
+	z-index: 10;
+}
+
+.okno label
+{
+	color: white;
+}
+
+.okno a
+{
+	color: white;
+}
+
+#enter
+{
+	display: none;
+	position: absolute;
+	left:628px;
+	top: 70px;
+	z-index: 10;
+}
+
+#enter_i
+{
+	
+	position: absolute;
+	left:628px;
+	top: 70px;
+	z-index: 10;
+}
+
+#exit
+{
+	z-index:2;
+	position: absolute;
+	top: 0px;
+	left:132px;
+}

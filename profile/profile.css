@@ -1,0 +1,89 @@
+.data_change
+{
+	display: none;
+	position: fixed;
+	left:588px;
+	top:284px;
+	width: 250px;
+		
+	z-index:10;
+}
+
+.data_change
+{
+	color: white;
+}
+
+#exit
+{
+	z-index:2;
+	position: absolute;
+	top: 0px;
+	left:182px;
+	z-index:10;
+}
+
+#edit
+{
+	position: absolute;
+	left: 100px;
+	top: 250px;
+	z-index:10;
+}
+
+#background
+{
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	z-index: 1;
+}
+
+.data_text
+{
+	position: absolute;
+	left: 0px;
+	top: 70px;
+	z-index:10;
+	
+}
+
+
+.data_text label
+{
+	color: white;
+}
+
+.link_back
+{
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	color: white;
+	z-index:10;
+}
+
+#avatar
+{
+	position: absolute;
+	left: 200px;
+	top: 0px;
+	z-index:10;
+	
+}
+
+
+#avatar label
+{
+	position: absolute;
+	left: 70px;
+	top: 10px;
+	color: white;
+}
+
+#avatar img
+{
+	position: absolute;
+	left: 0px;
+	top: 30px;
+}
